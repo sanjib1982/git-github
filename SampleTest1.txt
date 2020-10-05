@@ -1,1 +1,2 @@
-This is the sample git file
+This is the sample git file.
+I am a developer
